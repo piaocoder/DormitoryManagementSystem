@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1456975105 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\add.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
+1456974118 c:\users\piaocoder\desktop\dormitorymanagementsystem\student.h
+
+1456975090 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\delete.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
+1456975284 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\explain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1456977491 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
+1456975335 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\modify.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
+1456975157 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\query.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
+1456975335 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\show.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
+1456977592 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\load.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
+1456977585 source:c:\users\piaocoder\desktop\dormitorymanagementsystem\save.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"student.h"
+
